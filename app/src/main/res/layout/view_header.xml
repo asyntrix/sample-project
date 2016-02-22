@@ -1,0 +1,5 @@
+<FrameLayout
+    android:layout_width="match_parent"
+    android:background="@color/colorAccent"
+    android:layout_height="120dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
